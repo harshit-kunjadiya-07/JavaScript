@@ -2,8 +2,6 @@
 
 > **A simple and powerful language for web development.**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square\&logo=javascript)
-
 ## 📌 What is JavaScript?
 
 **JavaScript (JS)** is a programming language used to make websites **interactive and dynamic**.
