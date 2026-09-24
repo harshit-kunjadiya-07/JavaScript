@@ -7,4 +7,4 @@
 
 # Project Video
 
-[ Watch Video](https://drive.google.com/file/d/1tHUS1FZdA1Y7L7tgTiprKFy2suOs7PNw/view?usp=sharing)
+[ project2 Video](https://drive.google.com/file/d/1tHUS1FZdA1Y7L7tgTiprKFy2suOs7PNw/view?usp=sharing)

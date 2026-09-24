@@ -9,11 +9,6 @@ Simple beginner-level JavaScript practice programs.
 -   Task 12--16: Console methods and operators
 -   Task 17: `getElementById()`
 
-# Project Video#
-
-## Project Video
-
-[ Watch Video](https://drive.google.com/file/d/1XFDWG5hzNZSRu_AMejjJHClTBvbdowfA/view?usp=drive_link)
 
 ## Image
 
@@ -24,3 +19,9 @@ Simple beginner-level JavaScript practice programs.
 ![Project Image](Document%20-%20Google%20Chrome%2024-09-2026%2012_34_41.png)
 
 ![Project Image](Document%20-%20Google%20Chrome%2024-09-2026%2012_34_50.png)
+
+
+
+## Project Video
+
+[ project Video](https://drive.google.com/file/d/1XFDWG5hzNZSRu_AMejjJHClTBvbdowfA/view?usp=drive_link)
