@@ -2,29 +2,29 @@
 
 // Task 6:-
 
-let marks = 50;
+// let marks = 50;
 
-marks += 10;
-console.log("After += :", marks);
+// marks += 10;
+// console.log("After += :", marks);
 
-marks -= 5;
-console.log("After -= :", marks);
+// marks -= 5;
+// console.log("After -= :", marks);
 
-marks *= 2;
-console.log("After *= :", marks);
+// marks *= 2;
+// console.log("After *= :", marks);
 
-marks /= 5;
-console.log("After /= :", marks);
+// marks /= 5;
+// console.log("After /= :", marks);
 
 //==============================================
 
 // Task 7:-
 
-let salary = 10000;
+// let salary = 10000;
 
-salary += 2000;
+// salary += 2000;
 
-console.log("Salary:", salary);
+// console.log("Salary:", salary);
 
 //==============================================
 

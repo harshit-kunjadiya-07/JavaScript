@@ -2,20 +2,20 @@
 
 // Task 11:-
 
-let isWeekend = false;
-let isHoliday = true;
+// let isWeekend = false;
+// let isHoliday = true;
 
-let officeClosed = isWeekend || isHoliday;
+// let officeClosed = isWeekend || isHoliday;
 
-console.log("Office closed:", officeClosed);
+// console.log("Office closed:", officeClosed);
 
 //==============================================
 
 // Task 12:-
 
-let isLoggedIn = false;
+// let isLoggedIn = false;
 
-console.log(!isLoggedIn);
+// console.log(!isLoggedIn);
 
 
 //==============================================
