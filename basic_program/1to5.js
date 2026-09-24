@@ -2,21 +2,21 @@
 
 // Task 1:-
 
-var age = 20;
-let studentName = "Harshit";
-const collegeName = "Shree labhubhai trivedi college";
+// var age = 20;
+// let studentName = "Harshit";
+// const collegeName = "Shree labhubhai trivedi college";
 
-console.log("Age:", age);
-console.log("Student Name:", studentName);
-console.log("College Name:", collegeName);
+// console.log("Age:", age);
+// console.log("Student Name:", studentName);
+// console.log("College Name:", collegeName);
 
 //==============================================
 
 // Task 2:-
 
-let city = "Rajkot";
+// let city = "Rajkot";
 
-console.log(document.getElementsByName("ahemadabad"));
+// console.log(document.getElementsByName("ahemadabad"));
 
 
 //==============================================
