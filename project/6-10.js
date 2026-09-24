@@ -2,19 +2,19 @@
 
 // Task 6 :-
 
-let marks = 50;
+// let marks = 50;
 
-marks += 10;
-console.log("After += :", marks);
+// marks += 10;
+// console.log("After += :", marks);
 
-marks -= 5;
-console.log("After -= :", marks);
+// marks -= 5;
+// console.log("After -= :", marks);
 
-marks *= 2;
-console.log("After *= :", marks);
+// marks *= 2;
+// console.log("After *= :", marks);
 
-marks /= 5;
-console.log("After /= :", marks);
+// marks /= 5;
+// console.log("After /= :", marks);
 
 
 // =========================================================
@@ -58,9 +58,9 @@ console.log("After /= :", marks);
 
 // Task 10 :-
 
-// let age = 22;
-// let hasLicense = true;
+let age = 22;
+let hasLicense = true;
 
-// let canDrive = age >= 18 && hasLicense;
+let canDrive = age >= 18 && hasLicense;
 
-// console.log("Can drive:", canDrive);
+console.log("Can drive:", canDrive);
