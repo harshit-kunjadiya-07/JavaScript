@@ -16,7 +16,8 @@ Simple beginner-level JavaScript practice programs.
 ## Image
 
 ``` markdown
-![Project Image](Document%20-%20Google%20Chrome%2024-09-2026%2011_38_56.png)
+
+[![Project Image](Document%20-%20Google%20Chrome%2024-09-2026%2011_38_56.png)]\
 
 ![Project Image](Document%20-%20Google%20Chrome%2024-09-2026%2012_14_57.png)
 
